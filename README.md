@@ -1,4 +1,4 @@
-Hide From Bugs! --a fun web application
+Hide From Bugs!
 ===============================
 main files:
 app.js
